@@ -2,5 +2,5 @@
   "name": "orders-portal",
   "version": "1.0.0",
   "description": "AI-powered order extraction portal",
-  "engines": { "node": "18.x" }
+  "engines": { "node": "22.x" }
 }
